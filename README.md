@@ -1,3 +1,4 @@
+
 <h1>jQuery Plugins</h1>
   <h3>Inline text editing plugin: jquery.inline.js</h3>
   <p></p>
@@ -45,3 +46,9 @@ Example 2:
                 content: slide.content,
                 selectedTheme: app.presentations[index].selectedTheme
             });
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 22abc71e08ed5d589ef5219722953f5d18dfcdac
