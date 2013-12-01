@@ -46,9 +46,4 @@ Example 2:
                 content: slide.content,
                 selectedTheme: app.presentations[index].selectedTheme
             });
-<<<<<<< HEAD
-=======
 
-
-
->>>>>>> 22abc71e08ed5d589ef5219722953f5d18dfcdac
